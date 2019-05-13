@@ -9,7 +9,7 @@ Constructors & the 'this' Keyword.
 Files: index.v1 + app.v1.js
 
 2. Lesson 2:
-Built In Constructors.
+Built In Constructors. 
 Files: index.v2 + app.v2.js
 
 3. Lesson 3:
