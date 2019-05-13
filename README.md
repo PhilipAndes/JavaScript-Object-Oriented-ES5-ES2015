@@ -20,7 +20,7 @@ Files: index.v3 + app.v3.js
 Prototypal Inheritance.
 Files: index.v4 + app.v4.js
 
-5. Lesson 5:
+5. Lesson 5: 
 Using Object.create.
 Files: index.v5 + app.v5.js
 
