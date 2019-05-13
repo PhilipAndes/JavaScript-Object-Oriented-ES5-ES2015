@@ -12,7 +12,7 @@ Files: index.v1 + app.v1.js
 Built In Constructors. 
 Files: index.v2 + app.v2.js
 
-3. Lesson 3:
+3. Lesson 3: 
 Prototypes Explained.
 Files: index.v3 + app.v3.js
 
