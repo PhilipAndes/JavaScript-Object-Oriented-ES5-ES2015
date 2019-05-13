@@ -28,6 +28,6 @@ Files: index.v5 + app.v5.js
 ES6 Classes.
 Files: index.v6 + app.v6.js
 
-7. Lesson 7:
+7. Lesson 7: 
 Sub Classes.
 Files: index.v7 + app.v7.js
