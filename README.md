@@ -16,7 +16,7 @@ Files: index.v2 + app.v2.js
 Prototypes Explained.
 Files: index.v3 + app.v3.js
 
-4. Lesson 4:
+4. Lesson 4: 
 Prototypal Inheritance.
 Files: index.v4 + app.v4.js
 
