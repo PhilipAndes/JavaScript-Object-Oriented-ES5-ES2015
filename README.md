@@ -24,7 +24,7 @@ Files: index.v4 + app.v4.js
 Using Object.create.
 Files: index.v5 + app.v5.js
 
-6. Lesson 6:
+6. Lesson 6: 
 ES6 Classes.
 Files: index.v6 + app.v6.js
 
